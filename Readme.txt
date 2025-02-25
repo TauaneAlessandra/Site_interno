@@ -1,6 +1,5 @@
 Thanks for downloading this template!
 
-Template Name: BizLand
-Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template usado: bootstrapmade
+Editado e modificado por Tauane Alessandra da Cunha
+Para realizar o site interno de colaboradores da Empresa adc embraer
